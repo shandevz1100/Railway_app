@@ -1,14 +1,18 @@
-[
-  "Maho Junction",
-  "Galgamuwa",
-  "Tambuttegama",
-  "Anuradhapura",
-  "Mihintale Junction",
-  "Kekirawa",
-  "Habarana",
-  "Gal Oya Junction",
-  "Kantale",
-  "Thampalakamam",
-  "China Bay",
-  "Trincomalee"
-]
+{
+  "Agbopura": [
+    "Habarana",
+    "Gal Oya Junction",
+    "Kantale",
+    "Thampalakamam",
+    "China Bay",
+    "Trincomalee"
+  ],
+  "Colombo Fort": [
+    "Maradana",
+    "Kollupitiya",
+    "Bambalapitiya",
+    "Wellawatte",
+    "Dehiwala",
+    "Mount Lavinia"
+  ]
+}
